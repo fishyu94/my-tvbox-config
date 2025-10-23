@@ -1,5 +1,5 @@
 {
-  "spider": "http://home.jundie.top:81/jar/top98_1.jar",
+  "spider": "https://raw.githubusercontent.com/fishyu94/my-tvbox-config/refs/heads/main/chaodabei.jar",
   "homepage": "https://github.com/hjdhnx/hipy-server",
   "homeLogo": "./img/logo500x200-1.png",
   "wallpaper": "https://api.btstu.cn/sjbz/api.php",
@@ -1148,4 +1148,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
