@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://xn--1991-rp5imh.v.nxog.top/m/t/",
 
-"spider":"./jar.jar",
+"spider":"https://raw.githubusercontent.com/fishyu94/my-tvbox-config/refs/heads/main/d2.jar",
 "warningText":"公众号【宇静鸣】！提示:
 📢接口维护 
 📢切勿贩卖",
@@ -206,3 +206,4 @@
 
 
 }
+
